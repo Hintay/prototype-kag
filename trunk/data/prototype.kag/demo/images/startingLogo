@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.46+devel 22040"
+   inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\logo.png"
+   inkscape:export-xdpi="73.885559"
+   inkscape:export-ydpi="73.885559"
+   sodipodi:docname="startingLogo">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3604"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3628"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3652"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3682"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3704"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3752"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter3769"
+       inkscape:label="Air spray"
+       inkscape:menu="Scatter"
+       inkscape:menu-tooltip="Convert to small scattered particles with some thickness"
+       width="2"
+       height="2"
+       y="-0.5"
+       x="-0.5">
+      <feGaussianBlur
+         id="feGaussianBlur3771"
+         stdDeviation="0.01"
+         result="result1" />
+      <feBlend
+         id="feBlend3773"
+         in2="result1"
+         blend="normal"
+         result="fbSourceGraphic"
+         mode="multiply" />
+      <feTurbulence
+         id="feTurbulence3775"
+         baseFrequency="0.8"
+         in="fbSourceGraphic"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="3"
+         result="result3" />
+      <feDisplacementMap
+         id="feDisplacementMap3777"
+         in2="result3"
+         in="fbSourceGraphic"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="50"
+         numOctaves="2"
+         result="result2" />
+      <feMorphology
+         id="feMorphology3779"
+         radius="1"
+         operator="dilate"
+         result="result4" />
+      <feBlend
+         id="feBlend3781"
+         in2="result2"
+         blend="normal"
+         mode="screen" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="63.228916"
+     inkscape:cy="632.33988"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1544"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3618" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:#a94545;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3783"
+       width="1024"
+       height="600"
+       x="-180.00002"
+       y="-36.209259"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\startingLogo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.72027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#280000;fill-opacity:1;stroke:#000000;stroke-width:4.69999981;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3769);enable-background:accumulate;font-family:APJapanesefontK;-inkscape-font-specification:APJapanesefontK"
+       x="470.04126"
+       y="431.47629"
+       id="text3740-8"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.8200914,-0.10762816,-0.27715211,1.2557495,271.05476,24.070365)"><tspan
+         sodipodi:role="line"
+         id="tspan3742-6"
+         x="470.04126"
+         y="431.47629">Prototype.kag</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.72027969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:APJapanesefontK;-inkscape-font-specification:APJapanesefontK"
+       x="817.08929"
+       y="480.38925"
+       id="text3740"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.8200914,-0.10762816,-0.27715211,1.2557495,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3742"
+         x="817.08929"
+         y="480.38925">Prototype.kag</tspan></text>
+  </g>
+</svg>
