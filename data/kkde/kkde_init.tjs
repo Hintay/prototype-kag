@@ -1,0 +1,59 @@
+//kkde_init.tjs - KKDEデバッグ関連初期化スクリプト
+//Copyright (C) 2009 PORING SOFT
+
+/*
+	KKDEとのメッセージやりとりを行うクラス
+*/
+class KKDEMessage
+{
+	var m_key = "";
+	var m_command = "";
+
+	//KKDEから受信したメッセージを実行する
+	function run(message)
+	{
+		dm("*START* KKDEMessage.run message=" + message);
+		
+		//初期化
+		m_key = "";
+		m_command = "";
+		
+		var msgArray = message.split("|");
+		if (msgArray.count < 2)
+		{
+			//メッセージが不正
+			return;
+		}
+		
+		m_key = msgArray[0];
+		m_command = msgArray[1];
+		switch (m_key)
+		{
+			case "jump":
+				jump(m_command, msgArray[2]);
+				break;
+			default:
+				dm("未対応のキーが指定されています");
+				break;
+		}
+	}
+	
+	//ジャンプする
+	function jump(storage, label)
+	{
+		dm("*START* KKDEMessage.jump storage=" + storage + " label=" + label);
+		kag.resetAll();
+		kag.process(storage, label);
+	}
+}
+
+
+//KKDEとの通信用初期化処理
+var kkde_message = new KKDEMessage();
+global.kag.messageEnable = true;
+global.kag.storeHWND = "hwnd";
+global.kag.onMessageReceived = function (key, message) {
+	dm("*START* onMessageReceived key=" + key + " message=" + message);
+	kkde_message.run(message);
+} incontextof kag;
+

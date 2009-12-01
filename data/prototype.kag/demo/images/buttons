@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.46+devel 22040"
+   sodipodi:docname="buttons">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2838"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3641"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3663"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3688"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3721"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3750"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3796"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3842"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3842-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4183"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4208"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4237"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4264"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3693"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3693-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3769"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3769-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="368.98411"
+     inkscape:cy="499.60901"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1570"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#a94545;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Dotum;-inkscape-font-specification:Dotum"
+       x="145.46198"
+       y="53.321316"
+       id="text2820"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan2824"
+         x="145.46198"
+         y="53.321316" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffdede;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Dotum;-inkscape-font-specification:Dotum"
+       x="151.5374"
+       y="242.56149"
+       id="text2826-6"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan2828-3"
+         x="151.5374"
+         y="242.56149" /></text>
+    <rect
+       style="color:#000000;fill:#f17041;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4254"
+       width="1024"
+       height="600"
+       x="-327.52432"
+       y="9.1872854"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\startMenu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3650"
+       transform="matrix(0.89965098,0.43660979,-0.43660979,0.89965098,-2.09413,-40.757031)">
+      <rect
+         y="205.21933"
+         x="-372.85715"
+         height="268.57144"
+         width="1337.1428"
+         id="rect2872"
+         style="color:#000000;fill:#000000;fill-opacity:0.23671498;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="100%"
+         id="text2874"
+         y="440.93362"
+         x="-208.57144"
+         style="font-size:281.24899292px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:0.29951692;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
+         xml:space="preserve"><tspan
+           y="440.93362"
+           x="-208.57144"
+           id="tspan2876"
+           sodipodi:role="line">DEMO</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="レイヤー"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#520800;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="392.32947"
+       y="893.07672"
+       id="text3629-9-2"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_config.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5"
+         x="392.32947"
+         y="893.07672">CONFIG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#520800;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="424.08533"
+       y="813.26117"
+       id="text3629-9-2-1"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_start.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-13"
+         x="424.08533"
+         y="813.26117">START</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#520800;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="427.37662"
+       y="991.80737"
+       id="text3629-9-2-4"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_load.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-27"
+         x="427.37662"
+         y="991.80737">LOAD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#520800;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="458.81778"
+       y="1111.0042"
+       id="text3629-9-2-4-7"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_extra.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-27-9"
+         x="458.81778"
+         y="1111.0042">EXTRA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffefb8;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="510.03516"
+       y="910.52576"
+       id="text3629-9-2-46"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_config.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-0"
+         x="510.03516"
+         y="910.52576">CONFIG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffefb8;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="526.07672"
+       y="828.38068"
+       id="text3629-9-2-1-6"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_start.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-13-6"
+         x="526.07672"
+         y="828.38068">START</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffefb8;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="510.7966"
+       y="1004.1738"
+       id="text3629-9-2-4-1"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_load.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-27-8"
+         x="510.7966"
+         y="1004.1738">LOAD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffefb8;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="561.5235"
+       y="1126.2295"
+       id="text3629-9-2-4-7-4"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_extra.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-27-9-9"
+         x="561.5235"
+         y="1126.2295">EXTRA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ff0004;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="627.74084"
+       y="927.97473"
+       id="text3629-9-2-7"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_config.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-8"
+         x="627.74084"
+         y="927.97473">CONFIG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ff0004;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="628.06812"
+       y="843.50018"
+       id="text3629-9-2-1-8"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_start.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-13-2"
+         x="628.06812"
+         y="843.50018">START</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ff0004;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="594.21661"
+       y="1016.5402"
+       id="text3629-9-2-4-9"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_load.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-27-1"
+         x="594.21661"
+         y="1016.5402">LOAD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.77777672px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ff0004;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial Black;-inkscape-font-specification:Arial Black Heavy"
+       x="664.22919"
+       y="1141.4548"
+       id="text3629-9-2-4-7-3"
+       sodipodi:linespacing="100%"
+       transform="matrix(1,-0.14824268,0,1,0,0)"
+       inkscape:export-filename="L:\game\prototype.kag\data\prototype.kag\demo\images\demo_button_extra.png"
+       inkscape:export-xdpi="73.885559"
+       inkscape:export-ydpi="73.885559"><tspan
+         sodipodi:role="line"
+         id="tspan3631-0-5-27-9-5"
+         x="664.22919"
+         y="1141.4548">EXTRA</tspan></text>
+    <rect
+       style="color:#000000;fill:#ff0004;fill-opacity:1;stroke:none;stroke-width:4.69999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3880"
+       width="18.182745"
+       height="220.21326"
+       x="282.84271"
+       y="785.68195" />
+  </g>
+</svg>

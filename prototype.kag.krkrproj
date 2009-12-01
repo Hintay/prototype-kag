@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectFile>
+  <Name>prototype.kag</Name>
+  <DataPath>data</DataPath>
+  <ExePath>krkr.eXe</ExePath>
+  <ExeArgv>-kkde_debug</ExeArgv>
+  <Type>Kagexpp</Type>
+</ProjectFile>

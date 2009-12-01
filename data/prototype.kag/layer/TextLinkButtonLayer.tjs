@@ -1,0 +1,45 @@
+
+/**
+ボタンレイヤークラス
+
+
+var button = new TextLinkButtonLayer(kag.fore.base, kag.fore);
+
+
+*/
+class TextLinkButtonLayer extends LinkButtonLayer
+{
+	var linkTarget;
+	var linkStorage;
+	
+	function TextLinkButtonLayer(win, par)
+	{
+		super.LinkButtonLayer(...);
+	}
+
+	function setLink(storage, target)
+	{
+		this.linkTarget = target;
+		this.linkStorage = storage;
+	}
+	
+	function draw()
+	{
+	
+		super.draw(...);
+		
+		
+		this.parent.links.add(%[
+			object : this,
+			target : this.linkTarget,
+			storage : this.linkStorage,
+			x: [this.left],
+			y: [this.top],
+			w: [this.width],
+			h: [this.height],
+			fixed: []
+		]);
+		
+	}
+
+}
