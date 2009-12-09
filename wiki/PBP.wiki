@@ -4,6 +4,23 @@
 
 [http://www5f.biglobe.ne.jp/~pbp/index.html PBP]で配布されている演出支援ツールの解析をメモ。
 
+== メッセージウィンドウ ==
+
+main/Config.tjs内では、デフォルトで
+
+{{{
+;initialMessageLayerVisible = false;
+}}}
+
+となっているので、メッセージは表示できない。
+
+{{{
+@position  visible=true  opacity=255 
+}}}
+
+で表示可能に。
+
+
 == システムメニュー ==
 
 main/Override.tjs内のKAGWindow_createMenusで定義
