@@ -12,7 +12,7 @@ main/Config.tjs内では、デフォルトで
 ;initialMessageLayerVisible = false;
 }}}
 
-となっているので、メッセージは表示できない。
+となっているので、メッセージは表示できない。シナリオファイル内で、表示させたいテキストの前に
 
 {{{
 @position  visible=true  opacity=255 
